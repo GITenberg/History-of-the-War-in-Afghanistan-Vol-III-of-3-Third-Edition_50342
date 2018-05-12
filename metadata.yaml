@@ -1,10 +1,16 @@
 _repo: History-of-the-War-in-Afghanistan-Vol-III-of-3-Third-Edition_50342
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50342-h/images/cover.jpg
 creator:
   author:
     agent_name: Kaye, Sir John William
     gutenberg_agent_id: '44618'
     url: http://www.gutenberg.org/2009/agents/44618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50342#History-of-the-War-in-Afghanistan-Vol-III-of-3-Third-Edition
 gutenberg_issued: '2015-10-30'
 gutenberg_type: Text
 identifiers:
